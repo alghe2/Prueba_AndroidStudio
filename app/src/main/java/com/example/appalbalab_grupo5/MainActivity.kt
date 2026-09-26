@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             AppAlbaLab_Grupo5Theme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "PORNOOOOOOOOOOOOOO",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
